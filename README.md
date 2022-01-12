@@ -9,3 +9,5 @@ I applied Natural Language Processing (NLP) to analyse the accounts of bipolar i
 **Cycosports Race Analysis**
 
 I derived group-based and individualised insights from real-life trail running data. Races usually publish result tables, but what actionable insights can be derived from them? By crafting clear visualisations on age, gender and running clubs, several were revealed.
+
+My Tableau Profile is as follows: https://public.tableau.com/app/profile/eric8425
